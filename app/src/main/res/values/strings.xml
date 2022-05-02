@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jniactivity</string>
+    <string name="return_string_array">GET FROM ARRAY</string>
+    <string name="pass_your_name_to_jni">PASS YOUR NAME TO JNI</string>
+</resources>
